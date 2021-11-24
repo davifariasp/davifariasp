@@ -1,6 +1,6 @@
 ## Eae, sou o Davi. Designer e Desenvolvedor fascinado em aprender de tudo um pouco!
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/davifariasp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifariasp&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifariasp&layout=compact&langs_count=7&theme=city_lights"/>
