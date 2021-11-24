@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/davifariasp">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davifariasp&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifariasp&layout=compact&langs_count=7&theme=city_lights"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=davifariasp&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifariasp&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 
 <div style="display: inline_block"><br>
