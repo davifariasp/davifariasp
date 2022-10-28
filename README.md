@@ -1,4 +1,4 @@
-## Eae, sou o Davi. Designer e Desenvolvedor fascinado em aprender de tudo um pouco!
+## Eae, sou o Davi. Desenvolvedor fascinado em aprender de tudo um pouco!
 
 <div align="center">
   <a href="https://github.com/davifariasp">
