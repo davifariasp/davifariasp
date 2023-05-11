@@ -1,8 +1,8 @@
 <h1 align="left">🫡 Hi, I'm Davi!!</h1>
-<h3 align="left">Flutter lover and javascript devotee. Developer FullStack from Brazil! 🇧🇷❤️</h3>
+<h3 align="left">Developer FullStack from Brazil! 🇧🇷❤️</h3>
 
 - 📝 I’m currently improving my knowledge in **Flutter**
-- 👨🏻‍🎓 Graduated in Systems and Digital Media
+- 👨🏻‍🎓 Graduating in Systems and Digital Media
 - 💬 Ask to me about development for **front, back and mobile** <br>
 
 ## 🛠 • Languages and Tools:
