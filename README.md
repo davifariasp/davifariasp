@@ -1,5 +1,5 @@
 <h1 align="left">🫡 Hi, I'm Davi!!</h1>
-<h3 align="left">Developer FullStack from Brazil! 🇧🇷❤️</h3>
+<h3 align="left">Developer Mobile from Brazil! 🇧🇷❤️</h3>
 
 - 📝 I’m currently improving my knowledge in **Flutter**
 - 👨🏻‍🎓 Graduating in Systems and Digital Media
