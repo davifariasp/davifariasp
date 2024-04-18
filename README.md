@@ -17,7 +17,7 @@
 
   
 </div><br>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifariasp&layout=compact&langs_count=7&theme=city_lights"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifariasp&layout=compact&langs_count=4&theme=city_lights"/>
   
 ## 📬 • How to reach me:
 <div>
