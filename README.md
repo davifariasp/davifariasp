@@ -1,10 +1,9 @@
 <h1 align="left">🫡 Hi, I'm Davi!!</h1>
-<h3 align="left">Developer Mobile from Brazil! 🇧🇷❤️</h3>
+<h3 align="left">Fullstack developer from Brazil! 🇧🇷❤️</h3>
 
-- 📝 I’m currently improving my knowledge in **Flutter**
+- 📝 I’m currently improving my knowledge in **Java with Spring boot**
 - 👨🏻‍🎓 Graduating in Systems and Digital Media
-- 💬 Ask to me about development for **front, back and mobile** <br>
-
+- 
 ## 🛠 • Languages and Tools:
 <div style="display: inline_block">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
