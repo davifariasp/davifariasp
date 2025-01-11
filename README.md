@@ -4,7 +4,7 @@
 
 Professional with a solid academic background in technology and three years of industry experience, specializing in software development and engineering. Notable achievements include developing applications in the fields of healthcare, education, logistics, industrial automation, and renewable energy. Recognized for efficiently and creatively solving problems, always guided by critical thinking to evaluate and make decisions.
 
-- 👨🏻‍🎓 Graduating in Systems and Digital Media
+- 👨🏻‍🎓 Bachelor in Systems and Digital Media
 - 🎯 Fullstack & DevOps
 - 📝 I’m currently improving my knowledge in **Java with Spring boot, DevOps and Microsservices**
 
